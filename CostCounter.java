@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-package vityaztrainings;
+package training_cost_counter;
 
 public class CostCounter {
     static CostCounter counter = new CostCounter();

@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-package vityaztrainings;
+package training_cost_counter;
 
 import javax.swing.*;
 import java.awt.*;
-import static vityaztrainings.CostCounter.*;
+import static training_cost_counter.CostCounter.*;
 
 
 public class CounterGui {

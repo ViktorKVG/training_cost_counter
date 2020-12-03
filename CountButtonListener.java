@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-package vityaztrainings;
+package training_cost_counter;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import static vityaztrainings.CostCounter.*;
-import static vityaztrainings.CounterGui.*;
+import static training_cost_counter.CostCounter.*;
+import static training_cost_counter.CounterGui.*;
 
 class CountButtonListener implements ActionListener {
     @Override
